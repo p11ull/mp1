@@ -35,8 +35,11 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a traditional desktop web browser. 
 
-![Alt text](assets/images/readme.png)
+![Alt text](./assets/images/readme.png)
 
+<div>
+    <img src="./assets/images/readme.png" width="400px"/> 
+</div>
 
 https://p11ull.github.io/myprofile/
 
